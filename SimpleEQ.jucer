@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="NRd5Xs" name="SimpleEQ" projectType="guiapp" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" cppLanguageStandard="17">
   <MAINGROUP id="O9w6Hq" name="SimpleEQ">
     <GROUP id="{C18742C1-557D-64F0-573A-96EB70EFD687}" name="Source">
       <FILE id="JFNhNh" name="Main.cpp" compile="1" resource="0" file="Source/Main.cpp"/>
